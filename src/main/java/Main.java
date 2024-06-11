@@ -1,3 +1,3 @@
 public class Main {
-  //comment from github
+  //comment from gitlab
 }
